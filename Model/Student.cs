@@ -11,5 +11,6 @@ namespace Spg.BasicDemo.Model {
         public string FirstName { get; set; }
         public string LastName { get; set; }
         public long SozNumber { get; set; }
+        public int Id { get; internal set; }
     }
 }
