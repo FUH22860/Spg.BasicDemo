@@ -1,0 +1,15 @@
+C:\5BAIF\POS\Spg.BasicDemo\Spg.BasicDemo\bin\Debug\net6.0\Spg.BasicDemo.exe
+C:\5BAIF\POS\Spg.BasicDemo\Spg.BasicDemo\bin\Debug\net6.0\Spg.BasicDemo.deps.json
+C:\5BAIF\POS\Spg.BasicDemo\Spg.BasicDemo\bin\Debug\net6.0\Spg.BasicDemo.runtimeconfig.json
+C:\5BAIF\POS\Spg.BasicDemo\Spg.BasicDemo\bin\Debug\net6.0\Spg.BasicDemo.dll
+C:\5BAIF\POS\Spg.BasicDemo\Spg.BasicDemo\bin\Debug\net6.0\Spg.BasicDemo.pdb
+C:\5BAIF\POS\Spg.BasicDemo\Spg.BasicDemo\obj\Debug\net6.0\Spg.BasicDemo.csproj.AssemblyReference.cache
+C:\5BAIF\POS\Spg.BasicDemo\Spg.BasicDemo\obj\Debug\net6.0\Spg.BasicDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\5BAIF\POS\Spg.BasicDemo\Spg.BasicDemo\obj\Debug\net6.0\Spg.BasicDemo.AssemblyInfoInputs.cache
+C:\5BAIF\POS\Spg.BasicDemo\Spg.BasicDemo\obj\Debug\net6.0\Spg.BasicDemo.AssemblyInfo.cs
+C:\5BAIF\POS\Spg.BasicDemo\Spg.BasicDemo\obj\Debug\net6.0\Spg.BasicDemo.csproj.CoreCompileInputs.cache
+C:\5BAIF\POS\Spg.BasicDemo\Spg.BasicDemo\obj\Debug\net6.0\Spg.BasicDemo.dll
+C:\5BAIF\POS\Spg.BasicDemo\Spg.BasicDemo\obj\Debug\net6.0\refint\Spg.BasicDemo.dll
+C:\5BAIF\POS\Spg.BasicDemo\Spg.BasicDemo\obj\Debug\net6.0\Spg.BasicDemo.pdb
+C:\5BAIF\POS\Spg.BasicDemo\Spg.BasicDemo\obj\Debug\net6.0\Spg.BasicDemo.genruntimeconfig.cache
+C:\5BAIF\POS\Spg.BasicDemo\Spg.BasicDemo\obj\Debug\net6.0\ref\Spg.BasicDemo.dll
